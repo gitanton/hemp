@@ -1,0 +1,28 @@
+[09-Mar-2017 19:22:18 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:22:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File '/home/mysuperw/public_html/hemp_live/media/catalog/category/' does not exists.' in /home/mysuperw/public_html/hemp_live/lib/Varien/File/Transfer/Adapter/Http.php:96
+Stack trace:
+#0 /home/mysuperw/public_html/hemp_live/get.php(205): Varien_File_Transfer_Adapter_Http->send('/home/mysuperw/...')
+#1 /home/mysuperw/public_html/hemp_live/get.php(165): sendFile('/home/mysuperw/...')
+#2 {main}
+  thrown in /home/mysuperw/public_html/hemp_live/lib/Varien/File/Transfer/Adapter/Http.php on line 96
+[09-Mar-2017 19:22:40 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:24:09 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:24:23 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:24:48 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:25:40 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:27:49 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:31:07 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:32:20 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:54:15 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 19:54:19 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 20:03:13 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 20:03:23 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 20:04:56 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 20:24:45 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816
+[09-Mar-2017 20:24:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'File '/home/mysuperw/public_html/hemp_live/media/catalog/category/' does not exists.' in /home/mysuperw/public_html/hemp_live/lib/Varien/File/Transfer/Adapter/Http.php:96
+Stack trace:
+#0 /home/mysuperw/public_html/hemp_live/get.php(205): Varien_File_Transfer_Adapter_Http->send('/home/mysuperw/...')
+#1 /home/mysuperw/public_html/hemp_live/get.php(165): sendFile('/home/mysuperw/...')
+#2 {main}
+  thrown in /home/mysuperw/public_html/hemp_live/lib/Varien/File/Transfer/Adapter/Http.php on line 96
+[09-Mar-2017 20:25:09 UTC] PHP Fatal error:  Call to a member function getBackend() on boolean in /home/mysuperw/public_html/hemp_live/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 816

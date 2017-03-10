@@ -1,0 +1,65 @@
+<config>
+    <modules>
+        <CapacityWebSolutions_Importcategory>
+            <version>1.0.2</version>
+        </CapacityWebSolutions_Importcategory>
+    </modules>   
+    <global>
+        <models>
+            <capacitywebsolutions_importcategory>
+                <class>CapacityWebSolutions_Importcategory_Model</class>
+            </capacitywebsolutions_importcategory>
+	    </models>
+		<helpers>
+            <importcategory>
+                <class>CapacityWebSolutions_Importcategory_Helper</class>
+            </importcategory>
+        </helpers>
+        <resources>
+            <importcategory_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </importcategory_write>
+            <importcategory_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </importcategory_read>
+        </resources>
+    </global>
+	<adminhtml>
+		<menu>
+			<cws module="importcategory">
+			<title>MageBees</title>
+			<sort_order>70</sort_order> 
+				<children>
+					<importcategory module="importcategory">
+						<title>Import Export Categories</title>
+						<sort_order>80</sort_order> 
+						<action>adminhtml/system_config/edit/section/importcategory</action>	
+					</importcategory>
+				</children>
+			</cws>
+		</menu>
+		<acl>
+			<resources>
+				<admin>
+					<children>
+						<system>
+							<children>
+								<config>
+									<children>
+										<importcategory>
+											<title>Import Category Section</title>
+										</importcategory>
+									</children>
+								</config>
+							</children>
+						</system>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+	</adminhtml>
+</config>

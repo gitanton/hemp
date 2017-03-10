@@ -1,0 +1,220 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+MenuName:Gotham Book
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Gotham Book
+WritingScript:Roman
+OutlineFileName:\Gotham-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:158964
+FileModTime:1221175910
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+MenuName:Gotham Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Gotham Light
+WritingScript:Roman
+OutlineFileName:\Gotham-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:155004
+FileModTime:1221175902
+NameArray:0,Mac,4,Gotham Light
+NameArray:0,Win,1,Gotham Light
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham Medium
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Gotham Medium
+WritingScript:Roman
+OutlineFileName:\Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:159852
+FileModTime:1221175856
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:218640
+FileModTime:1483725210
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-ExtraBold
+FamilyName:Raleway
+StyleName:ExtraBold
+MenuName:Raleway
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Raleway ExtraBold
+WritingScript:Roman
+OutlineFileName:\Raleway-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:66336
+FileModTime:1373446506
+NameArray:0,Mac,4,Raleway ExtraBold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+MenuName:Raleway
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Raleway Light
+WritingScript:Roman
+OutlineFileName:\Raleway-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:64488
+FileModTime:1373446506
+NameArray:0,Mac,4,Raleway Light
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+MenuName:Raleway
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Raleway Medium
+WritingScript:Roman
+OutlineFileName:\Raleway-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:64776
+FileModTime:1373446506
+NameArray:0,Mac,4,Raleway Medium
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-SemiBold
+FamilyName:Raleway
+StyleName:SemiBold
+MenuName:Raleway
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Raleway SemiBold
+WritingScript:Roman
+OutlineFileName:\Raleway-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:65696
+FileModTime:1373446506
+NameArray:0,Mac,4,Raleway SemiBold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZapfDingbatsITC
+FamilyName:Zapf Dingbats
+StyleName:Regular
+MenuName:Zapf Dingbats
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Zapf Dingbats
+WritingScript:Roman
+OutlineFileName:\ZapfDingbats.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:154132
+FileModTime:1478369514
+NameArray:0,Mac,4,Zapf Dingbats
+%EndFont
+
